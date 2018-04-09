@@ -1,0 +1,24 @@
+{
+  "name": "hyper-mac",
+  "version": "0.0.1",
+  "description": "Mac Theme for Hyper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mineiro/hyper-mac.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "hyperterm",
+    "hyperterm-theme",
+    "mac",
+    "hyper-mac"
+  ],
+  "author": "José Netto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mineiro/hyper-mac/issues"
+  },
+  "homepage": "https://github.com/mineiro/hyper-mac#readme"
+}
